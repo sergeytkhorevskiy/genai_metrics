@@ -1,0 +1,8 @@
+{
+  "num_samples": 10,
+  "sample_rate": 22050,
+  "duration": 3.0,
+  "format": "WAV",
+  "generated_at": "2025-08-26T01:09:18.852040",
+  "description": "Synthetic audio for GenAI evaluation"
+}

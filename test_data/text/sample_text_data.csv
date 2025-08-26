@@ -1,0 +1,11 @@
+reference,candidate,sample_id
+The quick brown fox jumps over the lazy dog.,The quick brown fox jumps over the lazy dog.,1
+Machine learning is a subset of artificial intelligence.,Machine learning is part of artificial intelligence.,2
+Natural language processing enables computers to understand human language.,NLP helps computers understand human language.,3
+Deep learning models can process complex patterns in data.,Deep learning can process complex data patterns.,4
+Computer vision allows machines to interpret visual information.,Computer vision lets machines interpret visual data.,5
+Neural networks are inspired by biological brain structures.,Neural networks mimic biological brain structures.,6
+Transfer learning enables models to apply knowledge from one task to another.,Transfer learning helps models use knowledge across tasks.,7
+Reinforcement learning involves learning through interaction with an environment.,Reinforcement learning learns through environment interaction.,8
+Generative adversarial networks can create realistic synthetic data.,GANs can generate realistic synthetic data.,9
+Transformer models have revolutionized natural language processing.,Transformers have changed natural language processing.,10

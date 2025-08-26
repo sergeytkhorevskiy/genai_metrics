@@ -1,0 +1,31 @@
+{
+  "references": [
+    "The quick brown fox jumps over the lazy dog.",
+    "Machine learning is a subset of artificial intelligence.",
+    "Natural language processing enables computers to understand human language.",
+    "Deep learning models can process complex patterns in data.",
+    "Computer vision allows machines to interpret visual information.",
+    "Neural networks are inspired by biological brain structures.",
+    "Transfer learning enables models to apply knowledge from one task to another.",
+    "Reinforcement learning involves learning through interaction with an environment.",
+    "Generative adversarial networks can create realistic synthetic data.",
+    "Transformer models have revolutionized natural language processing."
+  ],
+  "candidates": [
+    "The quick brown fox jumps over the lazy dog.",
+    "Machine learning is part of artificial intelligence.",
+    "NLP helps computers understand human language.",
+    "Deep learning can process complex data patterns.",
+    "Computer vision lets machines interpret visual data.",
+    "Neural networks mimic biological brain structures.",
+    "Transfer learning helps models use knowledge across tasks.",
+    "Reinforcement learning learns through environment interaction.",
+    "GANs can generate realistic synthetic data.",
+    "Transformers have changed natural language processing."
+  ],
+  "metadata": {
+    "generated_at": "2025-08-26T01:09:18.702467",
+    "num_samples": 10,
+    "description": "Sample text data for GenAI evaluation"
+  }
+}

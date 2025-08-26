@@ -1,0 +1,7 @@
+{
+  "num_samples": 10,
+  "image_size": "224x224",
+  "format": "PNG",
+  "generated_at": "2025-08-26T01:09:18.754497",
+  "description": "Synthetic images for GenAI evaluation"
+}
